@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{139:function(n,t,e){"use strict";e.r(t),e.d(t,"default",function(){return p});var r=e(7),o=e.n(r),u=e(0),i=e.n(u),p=function(n){function t(){return n.apply(this,arguments)||this}return o()(t,n),t.prototype.render=function(){return i.a.createElement("div",null,"test page 3~~~~~")},t}(i.a.Component)}}]);
+//# sourceMappingURL=component---src-pages-page-3-js-532727cc71b3f011b540.js.map
