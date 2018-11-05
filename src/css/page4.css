@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+  }
+  
+  .container {
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .container header {
+    color: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    max-width: 70%;
+  }
